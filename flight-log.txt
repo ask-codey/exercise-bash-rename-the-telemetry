@@ -1,0 +1,17 @@
+# KESTREL-1 flight log, ground station 2
+# Lines that start with # are notes from the night shift.
+orbit 1: altitude 402 km
+  battery 98%, all normal
+orbit 2: altitude 409 km
+  WARNING: battery 71%, below plan
+orbit 3: altitude 404 km
+# WARNING drill tonight: not a real warning
+  radio quiet
+orbit 4: altitude 411 km
+  WARNING: could not save C:\downlink\orbit-04.dat
+orbit 5: altitude 407 km
+WARNING: sun sensor glare for 2 minutes
+  all normal
+END OF FLIGHT
+orbit 6: altitude 405 km
+  WARNING: a test line after the end, not part of the flight
